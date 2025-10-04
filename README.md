@@ -54,7 +54,6 @@
 <br>
 
 <div align="center">
- <h3><b></b></h3>
 <a href="https://solved.ac/shail1027/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shail1027" alt="Solved.ac Profile"/>
   </a>
