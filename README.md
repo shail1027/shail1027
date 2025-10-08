@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 <br>
 <br>
-
 <div align="center">
 <a href="https://solved.ac/shail1027/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shail1027" alt="Solved.ac Profile"/>
