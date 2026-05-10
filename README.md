@@ -35,18 +35,5 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-<br>
-<br>
-<br>
-<br>
-<br>
-<div align="center">
-<a href="https://solved.ac/shail1027/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shail1027" alt="Solved.ac Profile"/>
-  </a>
 
-</div>  
-<br>
-<div align="center">
-</div>
  
